@@ -1,0 +1,13 @@
+population_1,population_2,fst_distance,standard_error
+Jew_Ashkenazi.HO,Cretan.DG,0.0049,0.00124
+Jew_Ashkenazi.HO,Italian_South.HO,0.0049,0.00033
+Jew_Ashkenazi.HO,Sicilian.HO,0.0052,0.00041
+Jew_Ashkenazi.HO,Greek.HO,0.0055,0.00035
+Jew_Ashkenazi.HO,Maltese.HO,0.0066,0.00045
+Jew_Ashkenazi.HO,Jew_Moroccan.HO,0.0091,0.00058
+Jew_Ashkenazi.HO,Jew_Iraqi.DG,0.0122,0.00138
+Jew_Ashkenazi.HO,Jew_Iranian.HO,0.0125,0.0005
+Jew_Ashkenazi.HO,Jew_Tunisian.HO,0.0127,0.00056
+Jew_Ashkenazi.HO,Jew_Libyan.HO,0.0132,0.00053
+Jew_Ashkenazi.HO,Jew_Georgian.HO,0.0133,0.00056
+Jew_Ashkenazi.HO,Jew_Yemenite.HO,0.0174,0.00054

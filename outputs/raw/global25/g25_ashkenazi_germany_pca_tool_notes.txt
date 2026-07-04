@@ -1,0 +1,5 @@
+Tool: ExploreYourDNA PCA Viewer - Modern Populations Comparison
+URL: https://www.exploreyourdna.com/Tools/PcaViewer
+Target coordinate label: Ashkenazi_Germany
+Input coordinate: see data/global25_targets.csv
+Figure output: figures/figure6_ashkenazi_germany_pca_viewer.png

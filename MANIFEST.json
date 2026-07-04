@@ -1,0 +1,400 @@
+{
+  "created": "2026-07-04",
+  "files": [
+    {
+      "path": "DATA_AVAILABILITY.md",
+      "size_bytes": 2989,
+      "sha256": "92665f26f55e35260719ffe71560c2c8508ad663f5765c3c3435e229cde0c6ef"
+    },
+    {
+      "path": "ILLUSTRATIVEDNA_REPRODUCIBILITY_PROTOCOL.md",
+      "size_bytes": 5063,
+      "sha256": "b525a8ba29b57ce88228ba3acf02afa3f2e057c51332c927e2c786bc8e96f3c5"
+    },
+    {
+      "path": "ILLUSTRATIVEDNA_REPRODUCTION_PROTOCOL.md",
+      "size_bytes": 5063,
+      "sha256": "b525a8ba29b57ce88228ba3acf02afa3f2e057c51332c927e2c786bc8e96f3c5"
+    },
+    {
+      "path": "MANIFEST.json",
+      "size_bytes": 12576,
+      "sha256": "28393f18c12ded038cea06ca9a478ed08101e7d6d2e5140d74c3856b5c729dee"
+    },
+    {
+      "path": "MANUSCRIPT.pdf",
+      "size_bytes": 4214095,
+      "sha256": "7269a8f4b0b3feb62bc0244942f120618aaf347f5df58008009c6e34df686dbc"
+    },
+    {
+      "path": "MANUSCRIPT_MATERIALS_AND_METHODS_REPLACEMENT.md",
+      "size_bytes": 8900,
+      "sha256": "65b389a26674165e27b88add89ffa814386d1880fc7d13119d4279c6cfa71ba8"
+    },
+    {
+      "path": "MANUSCRIPT_MATERIALS_AND_METHODS_REPLACEMENT.txt",
+      "size_bytes": 8900,
+      "sha256": "65b389a26674165e27b88add89ffa814386d1880fc7d13119d4279c6cfa71ba8"
+    },
+    {
+      "path": "METHODS.md",
+      "size_bytes": 8902,
+      "sha256": "5d22a95170e4e4d03093a68fca6a9b6d0472e0c41d2c4d8501408d63fdeed57b"
+    },
+    {
+      "path": "PCI_RESPONSE_LETTER.md",
+      "size_bytes": 2181,
+      "sha256": "68b8264634ab5fc5dcc563073d53aac56582979a3b9675d0333cc4dd0a16d821"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 3508,
+      "sha256": "6f197eb737a6c87abbd2aba7d29f8506b6d680b2ea6681bc19c4503b85f7806d"
+    },
+    {
+      "path": "REPRODUCIBILITY_LIMITATIONS_AND_NEXT_STEPS.md",
+      "size_bytes": 1189,
+      "sha256": "1bd7bfaf54d4d7a82f036343d2cb91262e0b09c685550357801974b0acccfba5"
+    },
+    {
+      "path": "SUBMISSION_PACKAGE_INDEX.md",
+      "size_bytes": 2035,
+      "sha256": "0d85a9e89d1efc2005b78769961a29f45857bcab2c0a3072a3a020a3bd0cba16"
+    },
+    {
+      "path": "SUPPLEMENTARY_MATERIALS.pdf",
+      "size_bytes": 16334922,
+      "sha256": "dde476cb370fb2cfe749f552d831307cadb8408ff25f18513ba6b40485f50c94"
+    },
+    {
+      "path": "data/ILLUSTRATIVEDNA_ADMIXLAB_RUN_INDEX.csv",
+      "size_bytes": 1617,
+      "sha256": "470fc4578b1e53b1ad7be445ab83653b3f979b7b95e2fa23ac8e4494dfa3c1ba"
+    },
+    {
+      "path": "data/README.md",
+      "size_bytes": 742,
+      "sha256": "40263ca05fe97b32d6fd00572e639cfba96140e901ed809fbdde1c1c844c6186"
+    },
+    {
+      "path": "data/access/GENOTYPE_RETRIEVAL.md",
+      "size_bytes": 2104,
+      "sha256": "6bbdd7eea8ed007be024ec670d7cd25c2b472595f659e1d05a4b5a0090ed576c"
+    },
+    {
+      "path": "data/fst_comparator_populations.txt",
+      "size_bytes": 165,
+      "sha256": "29fd62cf74b25a34e077191f9320b1699350a4e9f75cf4119be998e21855bf8a"
+    },
+    {
+      "path": "data/global25_targets.csv",
+      "size_bytes": 628,
+      "sha256": "81f48556ac9ebae09312f9887f36733dd0922df89de95d714f8b645381521a5b"
+    },
+    {
+      "path": "data/population_labels_fst.csv",
+      "size_bytes": 418,
+      "sha256": "53f5213c0cae2fbde097c62fd3d0da515d459ea117e1d1751c18e23d3eda7f3e"
+    },
+    {
+      "path": "data/population_labels_qpadm.csv",
+      "size_bytes": 668,
+      "sha256": "1d71e057c0c5e7251ff6e712427126ac7819b88a19032f40a3e509f2cab9db9e"
+    },
+    {
+      "path": "data/qpadm_right_set.txt",
+      "size_bytes": 135,
+      "sha256": "93d62409193c4022ee056de738b5f43af5f078d47c0f2aa27c0002b016a6e10d"
+    },
+    {
+      "path": "data/qpadm_target_and_sources.txt",
+      "size_bytes": 239,
+      "sha256": "b5f06f8ce4ea7388ae5859bac852b230da28941aad659cc1408467834dc408ce"
+    },
+    {
+      "path": "docs/Ashkenazi_DNA_Under_the_Microscope_REVISED_PCI_Methods.pdf",
+      "size_bytes": 4214095,
+      "sha256": "7269a8f4b0b3feb62bc0244942f120618aaf347f5df58008009c6e34df686dbc"
+    },
+    {
+      "path": "docs/MANUSCRIPT.pdf",
+      "size_bytes": 4214095,
+      "sha256": "7269a8f4b0b3feb62bc0244942f120618aaf347f5df58008009c6e34df686dbc"
+    },
+    {
+      "path": "docs/PCI_EXAMPLE_PAPER_NOTES.md",
+      "size_bytes": 838,
+      "sha256": "9d73cdda6cc0ed83af6f2029d3d39aa2bc5fe6be264a3485c7dc88f93b5a4923"
+    },
+    {
+      "path": "docs/README.md",
+      "size_bytes": 341,
+      "sha256": "13cdc9fa9fd5225c0cfcb800c63690496374f74cab70427d85870d7b206abe9d"
+    },
+    {
+      "path": "docs/current_manuscript_uploaded.pdf",
+      "size_bytes": 4223829,
+      "sha256": "b93b1f4624ad2635d97c6a36d3b26115158b602970841e09ff4d6e680903b39a"
+    },
+    {
+      "path": "figures/README.md",
+      "size_bytes": 503,
+      "sha256": "fad7a279942e33393e2cd46ed1e04604cb7f0a55fcbe552e786318c97ec758e8"
+    },
+    {
+      "path": "figures/figure3_ashkenazi_germany_g25_similarity_map.png",
+      "size_bytes": 2049532,
+      "sha256": "452e94982f07251893fe85d73af8a7443cd8321463001f18e053045b2b224396"
+    },
+    {
+      "path": "figures/figure3_ashkenazi_germany_g25_similarity_map_small.png",
+      "size_bytes": 912037,
+      "sha256": "7dd4508d17043659e25f98a021cb5ef6932ffe813bb04e52c9bf8160948ee0ba"
+    },
+    {
+      "path": "figures/figure6_ashkenazi_germany_pca_viewer.png",
+      "size_bytes": 249114,
+      "sha256": "9882f644325383c0d203661765088e6b39afd9bf72a6eff1d63a9f6c438ec256"
+    },
+    {
+      "path": "figures/fst_web_output_screenshot.png",
+      "size_bytes": 143251,
+      "sha256": "03cb100f89022732b86d109dc573d192ec199bd0f906d39dde93c10fc4147f14"
+    },
+    {
+      "path": "figures/global25_similarity_tool_table_screenshot.png",
+      "size_bytes": 171461,
+      "sha256": "bf4ef6c43552a4522732516e5422bfdfa638d21f59cd2542854621630680d7fe"
+    },
+    {
+      "path": "figures/qpadm_central_italian_model_screenshot.png",
+      "size_bytes": 119454,
+      "sha256": "c155bc5a9bdb4891cedd7d94ed5b73f05df7cacd60acb5301a0329e95aca7699"
+    },
+    {
+      "path": "figures/qpadm_north_italian_model_screenshot.png",
+      "size_bytes": 124971,
+      "sha256": "a4b2aade2ee901517acd96ca7dd39ceb940e7dd1d9a99d5e444873f993cba338"
+    },
+    {
+      "path": "figures/qpadm_south_italian_model_screenshot.png",
+      "size_bytes": 124284,
+      "sha256": "7bdb3169bc67e2cb705d2f3d37868622a0de37dae94a03913fa11c39061625c4"
+    },
+    {
+      "path": "figures/table10_fst_results_screenshot.png",
+      "size_bytes": 577890,
+      "sha256": "a0029c0a23c59cbcd7c7c017cfdf2cacace5b5240bdc29581b072c658d1bff93"
+    },
+    {
+      "path": "figures/table11_fst_calibration_screenshot_a.png",
+      "size_bytes": 478654,
+      "sha256": "6f88cad706c0fbc611a30e2f0f52bedcbee1e4c38f3406410f0f2fdd20b7a099"
+    },
+    {
+      "path": "figures/table12_italian_jew_top30_screenshot.png",
+      "size_bytes": 1007427,
+      "sha256": "23b9d100317dea78a4fcc7175afc76d817ec443b27c8603750cc3403033707f7"
+    },
+    {
+      "path": "figures/table8_ashkenazi_germany_top30_screenshot.png",
+      "size_bytes": 605570,
+      "sha256": "538a1ce7b38370a8e2f26dcfc5687620396c0fc57f80dc8b651c91303f99ce0f"
+    },
+    {
+      "path": "figures/table9_qpadm_results_screenshot.png",
+      "size_bytes": 475362,
+      "sha256": "4722d6781d50967b2f83cbc7b6c589dccd3f2a86f2a4619256317c11915298b0"
+    },
+    {
+      "path": "logs/rebuild_tables.log",
+      "size_bytes": 86,
+      "sha256": "b0fd102a024bad76731fbc0cd29641e2f50b7c2887dc1f1c0cb7f03fc3c0a841"
+    },
+    {
+      "path": "models/fst_calibration_comparisons.tsv",
+      "size_bytes": 426,
+      "sha256": "332be9d0b9e3a34bd68d191efd26901f4d21619bd5d380565825e2b9db3e0021"
+    },
+    {
+      "path": "models/fst_comparisons.tsv",
+      "size_bytes": 3222,
+      "sha256": "1a9d9069926d48abd127b1a8bef55d378862b78b086ec6652f8c4b57cb219c1a"
+    },
+    {
+      "path": "models/qpadm_model_specifications.tsv",
+      "size_bytes": 1738,
+      "sha256": "a8f377502b3f3ed08441033eb7f350a266189377acfdc409a884cde0949894e9"
+    },
+    {
+      "path": "models/qpadm_models.json",
+      "size_bytes": 1438,
+      "sha256": "4dda6ab03ea667a911c4e0a57c60145eec0cf5bce39a2bcbe01ccfe3141109a6"
+    },
+    {
+      "path": "outputs/derived/fst_summary_from_specs.csv",
+      "size_bytes": 615,
+      "sha256": "e755a2576f512e398bc9902ba1c0e5a218af22154b93c77dcfd77d1a3031ab02"
+    },
+    {
+      "path": "outputs/derived/qpadm_model_summary_from_specs.csv",
+      "size_bytes": 764,
+      "sha256": "67ba927d4628fbea2d8c53f86663bef92e826cb02cf2848c1b8aa428a1eaf845"
+    },
+    {
+      "path": "outputs/derived/table10_fst_results.csv",
+      "size_bytes": 428,
+      "sha256": "d65e398c3392176562cc6f8c3bd1071ff86597f220915425a3bf99bfad9a7d17"
+    },
+    {
+      "path": "outputs/derived/table11_fst_calibration.csv",
+      "size_bytes": 314,
+      "sha256": "13c11b02c9c22b7d9003685a33912c00723d436ea00695e5cf875ff669700c21"
+    },
+    {
+      "path": "outputs/derived/table12_italian_jew_top30_global25.csv",
+      "size_bytes": 925,
+      "sha256": "34f61ce0fd10bd9800bfaf79dff54a04889a2ed3764e57a3d40bc1222fc6bb4f"
+    },
+    {
+      "path": "outputs/derived/table8_ashkenazi_germany_top30_global25.csv",
+      "size_bytes": 931,
+      "sha256": "8da4d536e20c004ea6f586792ed6744d9daeb50948eab9e7a9fccd5ccac2de5c"
+    },
+    {
+      "path": "outputs/derived/table9_qpadm_results.csv",
+      "size_bytes": 491,
+      "sha256": "6b2086e79c684a1864215edcf0383be6fbd5ab5ff978e3aea0dba192e88d584d"
+    },
+    {
+      "path": "outputs/raw/fst/fst_jew_ashkenazi_raw_output.txt",
+      "size_bytes": 1114,
+      "sha256": "bbed6e538a02e7f1a73c04cc1e85444bf2e6e1264fc4255dbb604b0bd6947fd3"
+    },
+    {
+      "path": "outputs/raw/global25/g25_ashkenazi_germany_pca_tool_notes.txt",
+      "size_bytes": 271,
+      "sha256": "6578b8e5da908f01669046eef43f9c5827847a9f44ca2b750416afdd0b6b8df4"
+    },
+    {
+      "path": "outputs/raw/global25/g25_ashkenazi_germany_tool_notes.txt",
+      "size_bytes": 663,
+      "sha256": "36b18ceec4636921659ea450dd04e3a3b625b67380d57f7dda675259620fc675"
+    },
+    {
+      "path": "outputs/raw/global25/g25_italian_jew_tool_notes.txt",
+      "size_bytes": 576,
+      "sha256": "e2b38757de5f7b8b51feaa6e856e29da34f1652d76e713d71b2b1a6f233607c7"
+    },
+    {
+      "path": "outputs/raw/illustrativedna/README.md",
+      "size_bytes": 393,
+      "sha256": "2abcae29ad90849b475d3e69a201df7d3cbf3aa4e7b7b376e7a36bb01f1fe613"
+    },
+    {
+      "path": "outputs/raw/illustrativedna/illustrativedna_fst_jew_ashkenazi_raw_output.txt",
+      "size_bytes": 1114,
+      "sha256": "bbed6e538a02e7f1a73c04cc1e85444bf2e6e1264fc4255dbb604b0bd6947fd3"
+    },
+    {
+      "path": "outputs/raw/illustrativedna/illustrativedna_qpadm_central_italian_model_raw_output.txt",
+      "size_bytes": 2514,
+      "sha256": "f6c8a7cf9728cfd48daaaacb7018e8c390e06cc1aeac86766eb4ae1fcf150db6"
+    },
+    {
+      "path": "outputs/raw/illustrativedna/illustrativedna_qpadm_north_italian_model_raw_output.txt",
+      "size_bytes": 2493,
+      "sha256": "4a77c3dcfbcb512e4d7656c35e77a8342fdf4cf3f2a0bf9a15e5fd600c353f97"
+    },
+    {
+      "path": "outputs/raw/illustrativedna/illustrativedna_qpadm_south_italian_model_raw_output.txt",
+      "size_bytes": 2492,
+      "sha256": "94c1c31f0fa85edf58245ced6c0c67a4c0fb6162540870620d49ed0ca26232a3"
+    },
+    {
+      "path": "outputs/raw/qpadm/qpadm_central_italian_model_raw_output.txt",
+      "size_bytes": 2514,
+      "sha256": "f6c8a7cf9728cfd48daaaacb7018e8c390e06cc1aeac86766eb4ae1fcf150db6"
+    },
+    {
+      "path": "outputs/raw/qpadm/qpadm_north_italian_model_raw_output.txt",
+      "size_bytes": 2493,
+      "sha256": "4a77c3dcfbcb512e4d7656c35e77a8342fdf4cf3f2a0bf9a15e5fd600c353f97"
+    },
+    {
+      "path": "outputs/raw/qpadm/qpadm_south_italian_model_raw_output.txt",
+      "size_bytes": 2492,
+      "sha256": "94c1c31f0fa85edf58245ced6c0c67a4c0fb6162540870620d49ed0ca26232a3"
+    },
+    {
+      "path": "scripts/00_environment.txt",
+      "size_bytes": 665,
+      "sha256": "570e3ebde38e3be7f46320e2a9e28ebe96539c9689425571a15a2e27ab08121d"
+    },
+    {
+      "path": "scripts/01_reproduce_global25_distances.py",
+      "size_bytes": 2666,
+      "sha256": "14cd5956616ebbdbb6cc0c50a067da5e9ffca20d881c323426963d584a82648e"
+    },
+    {
+      "path": "scripts/02_rebuild_tables.py",
+      "size_bytes": 1750,
+      "sha256": "0405827fae557701cea04cf9a771621e1b844316ff9801d6df57b433b3fa3714"
+    },
+    {
+      "path": "scripts/03_qpadm_web_platform_reproduction_notes.md",
+      "size_bytes": 666,
+      "sha256": "425240ebdca09bd981fd08e1f286e730ff0bc5e38cbb5ae58a30f95ecbee7c7c"
+    },
+    {
+      "path": "scripts/04_fst_web_platform_reproduction_notes.md",
+      "size_bytes": 705,
+      "sha256": "7fcd161c776f1b0617e326cb58a67270a35a6eaa38880ca90a49f16fdd65bf8b"
+    },
+    {
+      "path": "supplementary/README.md",
+      "size_bytes": 254,
+      "sha256": "0e7621220e08410904e44bc31ae536b34ae22ddcfaf171f1703e0d6bc8152637"
+    },
+    {
+      "path": "supplementary/SUPPLEMENTARY_INDEX.md",
+      "size_bytes": 723,
+      "sha256": "247591cb12812acd7ca6ef844b2604024308d3196c1ff2dc4d70fc4d819f639a"
+    },
+    {
+      "path": "supplementary/SUPPLEMENTARY_MATERIALS.pdf",
+      "size_bytes": 16334922,
+      "sha256": "dde476cb370fb2cfe749f552d831307cadb8408ff25f18513ba6b40485f50c94"
+    },
+    {
+      "path": "supplementary/supplementary_materials_submitted.pdf",
+      "size_bytes": 16334922,
+      "sha256": "dde476cb370fb2cfe749f552d831307cadb8408ff25f18513ba6b40485f50c94"
+    },
+    {
+      "path": "tables/table10_fst_results.csv",
+      "size_bytes": 428,
+      "sha256": "d65e398c3392176562cc6f8c3bd1071ff86597f220915425a3bf99bfad9a7d17"
+    },
+    {
+      "path": "tables/table11_fst_calibration.csv",
+      "size_bytes": 314,
+      "sha256": "13c11b02c9c22b7d9003685a33912c00723d436ea00695e5cf875ff669700c21"
+    },
+    {
+      "path": "tables/table12_italian_jew_top30_global25.csv",
+      "size_bytes": 925,
+      "sha256": "34f61ce0fd10bd9800bfaf79dff54a04889a2ed3764e57a3d40bc1222fc6bb4f"
+    },
+    {
+      "path": "tables/table8_ashkenazi_germany_top30_global25.csv",
+      "size_bytes": 931,
+      "sha256": "8da4d536e20c004ea6f586792ed6744d9daeb50948eab9e7a9fccd5ccac2de5c"
+    },
+    {
+      "path": "tables/table9_qpadm_results.csv",
+      "size_bytes": 491,
+      "sha256": "6b2086e79c684a1864215edcf0383be6fbd5ab5ff978e3aea0dba192e88d584d"
+    }
+  ]
+}

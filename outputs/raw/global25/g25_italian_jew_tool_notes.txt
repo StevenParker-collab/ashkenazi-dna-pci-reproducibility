@@ -1,0 +1,7 @@
+Tool: ExploreYourDNA G25 Similarity Map
+URL: https://www.exploreyourdna.com/Tools/SimilitudeG25
+Target coordinate label: Italian_Jew
+Target coordinate source: Davidski Global25 modern scaled population-average dataset as described by the author.
+Input coordinate:
+Italian_Jew,0.094928,0.145627,-0.018667,-0.056493,0.011294,-0.024542,-0.003995,-0.002792,0.012885,0.019135,0.004514,0.000210,0.002156,-0.002876,-0.006610,-0.001233,-0.001200,-0.001052,-0.001119,-0.003589,-0.003906,-0.001546,-0.000123,0.002362,0.002874
+Output table: tables/table12_italian_jew_top30_global25.csv

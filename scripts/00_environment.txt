@@ -1,0 +1,11 @@
+Original qpAdm/FST execution environment:
+- IllustrativeDNA Admix Lab web interface
+- URL: https://illustrativedna.com/admix-lab/
+- Dataset selected: Human Origins v62.0
+- Original local shell scripts for qpAdm/FST: none
+
+Repository utility scripts:
+- Python 3.10+ for rebuilding stored CSV tables and Global25 distance rankings when the comparator coordinate file is supplied.
+
+Important:
+The scripts folder is not the original qpAdm/FST execution environment. The original reported qpAdm and FST analyses were run through the IllustrativeDNA browser interface using the exact population labels and settings documented in ILLUSTRATIVEDNA_REPRODUCTION_PROTOCOL.md.
